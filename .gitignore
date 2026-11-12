@@ -1,0 +1,16 @@
+/build/
+/build-*/
+/bin/
+/out/
+/benchmark-report.json
+/benchmark_results/data/
+/benchmark_results/console_log.txt
+/sample_data/*.log
+*.tmp
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+*.exp
